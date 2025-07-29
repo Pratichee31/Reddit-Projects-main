@@ -65,7 +65,7 @@ def main():
 
     # --- MODIFIED: Check if necessary input files exist for the chosen step ---
     required_files = {
-        2: os.path.join(DATA_DIR, "south_asian_dating_reddit_data.json"),
+        2: os.path.join(DATA_DIR, "skin_research.json"),
         3: os.path.join(DATA_DIR, "ai_input_minimal.json"),
         4: os.path.join(DATA_DIR, "ai_analysis_output.json")
     }

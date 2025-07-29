@@ -1,66 +1,26 @@
 [
   {
-    "opportunity_id": "comment_n2ycvjc",
+    "opportunity_id": "post_1mbgcb9",
     "status": "Suitable",
     "reason": null,
-    "conversation_theme": "Perceptions of Maturity on Dates",
-    "relevant_philosophy": "Inner Freedom Before External Skill",
-    "strategic_direction": "Encourage a discussion on how self-awareness and inner confidence can redefine common perceptions of maturity and dating rituals."
+    "conversation_theme": "Finding the Perfect Moisturizer for Sensitive Combination Skin",
+    "relevant_philosophy": "Ingredient Efficacy & Product Suitability",
+    "strategic_direction": "Emphasize the importance of choosing moisturizers with the right texture and ingredients specifically designed for sensitive combination skin. Highlight products that offer hydration without a greasy finish and are tested for compatibility with makeup. Address the emerging trend of sustainable and eco-friendly packaging."
   },
   {
-    "opportunity_id": "comment_n39hfth",
+    "opportunity_id": "comment_mpc1w4t",
+    "status": "Suitable",
+    "reason": null,
+    "conversation_theme": "Challenges in Achieving Calm, Irritation-free Skin Despite a Gentle Routine",
+    "relevant_philosophy": "Internal Harmony (Gut & Hormones)",
+    "strategic_direction": "Discuss the potential unseen internal factors such as gut health or allergies that might be contributing to persistent redness and irritation. Encourage exploration of skincare that complements a gentle routine and focuses on restoring internal balance to achieve visibly healthy skin."
+  },
+  {
+    "opportunity_id": "comment_md0s7s3",
     "status": "Unsuitable",
-    "reason": "The comment reflects a personal safety concern and suspicion in a toxic relationship context, making it overly sensitive for engagement.",
+    "reason": "The comment lacks actionable insights, focusing on a generic reaction to acne treatment progress without addressing root causes or providing relevant skincare insights.",
     "conversation_theme": null,
     "relevant_philosophy": null,
     "strategic_direction": null
-  },
-  {
-    "opportunity_id": "comment_n39kxh9",
-    "status": "Unsuitable",
-    "reason": "The comment trivializes a potential serious safety concern, making it insensitive and unsuitable for engagement.",
-    "conversation_theme": null,
-    "relevant_philosophy": null,
-    "strategic_direction": null
-  },
-  {
-    "opportunity_id": "comment_n3hooio",
-    "status": "Suitable",
-    "reason": null,
-    "conversation_theme": "Insecurity in Relationships",
-    "relevant_philosophy": "Redefining Modern Masculinity",
-    "strategic_direction": "Explore how embracing vulnerability and open communication can strengthen relationship bonds and self-assurance."
-  },
-  {
-    "opportunity_id": "comment_n3hou1b",
-    "status": "Unsuitable",
-    "reason": "The comment dismisses genuine feelings of insecurity, which may not provide a meaningful engagement opportunity.",
-    "conversation_theme": null,
-    "relevant_philosophy": null,
-    "strategic_direction": null
-  },
-  {
-    "opportunity_id": "post_1m0vpzd",
-    "status": "Suitable",
-    "reason": null,
-    "conversation_theme": "Challenges of Modern Dating for Men",
-    "relevant_philosophy": "Courtship is a Dance, Not a Chase",
-    "strategic_direction": "Emphasize the co-creation aspect of attraction and encourage open dialogues on navigating modern dating challenges with mutual respect."
-  },
-  {
-    "opportunity_id": "post_1m4qhmx",
-    "status": "Suitable",
-    "reason": null,
-    "conversation_theme": "Navigating Relationships with Limited Experience",
-    "relevant_philosophy": "Inner Freedom Before External Skill",
-    "strategic_direction": "Focus on developing personal confidence from within and educate on removing self-doubt while forming genuine connections in dating."
-  },
-  {
-    "opportunity_id": "post_1m43nhj",
-    "status": "Suitable",
-    "reason": null,
-    "conversation_theme": "Managing Relationship Expectations and Regrets",
-    "relevant_philosophy": "Connection Over Performance",
-    "strategic_direction": "Guide individuals to prioritize authentic connection and communication, emphasizing the importance of understanding and processing their emotions in relationships."
   }
 ]

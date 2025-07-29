@@ -1,8 +1,8 @@
 {
-  "master_data_info": {
-    "last_updated": "2025-07-30 02:04:49",
-    "total_posts": 17,
-    "script_version": "2.1",
+  "session_info": {
+    "timestamp": "2025-07-30 02:04:49",
+    "total_new_posts": 17,
+    "script_version": "2.1_deduplicated",
     "opportunity_scoring": {
       "W1_SCORE_VELOCITY": 1.0,
       "W2_COMMENT_VELOCITY": 1.5,

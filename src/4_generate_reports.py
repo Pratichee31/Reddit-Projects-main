@@ -11,7 +11,7 @@ DATA_DIR = "data"
 REPORTS_DIR = "reports"
 
 # --- MODIFIED: Construct full paths for all files ---
-FULL_DATA_FILE = os.path.join(DATA_DIR, "south_asian_dating_reddit_data.json")
+FULL_DATA_FILE = os.path.join(DATA_DIR, "skin_research.json")
 AI_OUTPUT_FILE = os.path.join(DATA_DIR, "ai_analysis_output.json")
 HISTORY_LOG_FILE = os.path.join(DATA_DIR, "reported_ids.log") # Note: This script was using 'reported_ids.log', ensure this is the correct log file name.
 POST_REPORT_FILE = os.path.join(REPORTS_DIR, "Report_Posts.docx")

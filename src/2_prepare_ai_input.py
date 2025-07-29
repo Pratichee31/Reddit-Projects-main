@@ -6,7 +6,7 @@ import os # <-- MODIFIED: Added os import for path handling
 DATA_DIR = "data"
 
 # --- MODIFIED: Construct full paths for all files ---
-INPUT_FILENAME = os.path.join(DATA_DIR, "south_asian_dating_reddit_data.json")
+INPUT_FILENAME = os.path.join(DATA_DIR, "skin_research.json")
 OUTPUT_FILENAME = os.path.join(DATA_DIR, "ai_input_minimal.json")
 HISTORY_LOG_FILE = os.path.join(DATA_DIR, "processed_ids.log") # This file will track all processed IDs
 

@@ -1,18 +1,23 @@
 {
   "search_settings": {
     "keywords": [
-  "lipstick"
+  "skin irritation",
+  "acne",
+  "blemishes",
+  "dark spots"
     ],
-    "target_subreddits": ["beauty"
+    "target_subreddits": ["scacjdiscussion",
+    "SkincareAddiction",
+    "Skincare_Addiction"
     ],
     "search_all_reddit": false,
-    "posts_per_keyword": 1,
+    "posts_per_keyword": 2,
     "sort_method": "top",
-    "time_filter": "week"
+    "time_filter": "year"
   },
   "export_settings": {
     "format": "json",
-    "custom_filename": "beauty_sub.json",
+    "custom_filename": "skin_research.json",
     "include_images": true,
     "include_comments": true,
     "max_comments_per_post": 2
