@@ -1,6 +1,6 @@
-# Reddit Engagement Intelligence Platform (REIP)
+# Reddit Intelligence Analysis Platform (RIAP)
 
-A sophisticated AI-powered pipeline that automatically discovers, analyzes, and prioritizes high-value Reddit engagement opportunities for strategic community participation.
+A sophisticated AI-powered pipeline that automatically discovers, analyzes, and prioritizes high-value Reddit content for strategic business intelligence. Configurable for multiple domains through customizable AI analysis frameworks.
 
 ## 🎯 Project Overview
 
@@ -26,11 +26,12 @@ Reddit API → Data Collection → AI Analysis → Strategic Reports
 - **Opportunity scoring** using velocity-based algorithms (posts gaining traction fast)
 - **Master data store** maintains historical context
 
-### AI-Powered Analysis
+### AI-Powered Domain Analysis
+- **Configurable analysis frameworks** through system prompt customization
 - **GPT-4 integration** with structured JSON schema enforcement
-- **Philosophy-based filtering** against 6 core coaching principles
+- **Domain-specific filtering** against customizable core principles
 - **Batch processing** with rate limiting for cost efficiency
-- **Strategic direction mapping** for each opportunity
+- **Strategic intelligence mapping** tailored to business objectives
 
 ### Professional Reporting
 - **Automated Word document generation** with clickable Reddit links
@@ -120,25 +121,34 @@ reddit-intelligence/
 
 ## 🧠 AI Analysis Framework
 
-The system uses 6 core coaching philosophies to evaluate content:
+The system uses configurable domain-specific frameworks to evaluate content. The current skincare marketing configuration uses 6 root cause categories:
 
-1. **Inner Freedom Before External Skill** - Mastery starts from within
-2. **Connection Over Performance** - Authenticity over perfection  
-3. **Emotional Honesty + Social Grace** - Express feelings skillfully
-4. **Grounded, Not Aggressive Masculinity** - Strength is calm and present
-5. **Courtship is a Dance, Not a Chase** - Attraction is co-created
-6. **Redefining Modern Masculinity** - Evolve toward openness and depth
+### Skincare Marketing Intelligence Framework:
 
-Each opportunity is classified as "Suitable" or "Unsuitable" with strategic direction mapping.
+1. **Internal Harmony (Gut & Hormones)** - Systemic imbalances affecting skin health
+2. **Environmental Aggressors** - External factors impacting skin barrier function  
+3. **Lifestyle & Habits** - Daily routines influencing skin condition
+4. **Ingredient Efficacy & Product Suitability** - Formulation effectiveness and compatibility
+5. **Genetics & Individual Biology** - Inherited predispositions and unique physiology
+6. **Psycho-Dermatology** - Mind-skin connection and emotional impact
+
+Each piece of content is classified as "Suitable" or "Unsuitable" with root cause mapping and marketing communication angles.
+
+### Framework Customization
+To adapt the platform for different domains:
+1. **Update system prompt** (`data/system_prompt_final.txt`) with new analysis framework
+2. **Modify target subreddits** in `data/config.json` for relevant communities
+3. **Adjust keywords** for domain-specific content discovery
+4. **Customize JSON schema** in analysis script for new output fields
 
 ## 📈 Output Examples
 
 ### Generated Reports Include:
 - **Opportunity Score** (velocity-based ranking)
 - **Context** (full post/comment thread)
-- **Strategic Theme** (AI-identified conversation focus)
-- **Core Philosophy** (relevant coaching principle)  
-- **Strategic Direction** (recommended response approach)
+- **Skin Concern Identified** (AI-detected customer pain point)
+- **Root Cause Category** (mapped to analysis framework)  
+- **Marketing Communication Angle** (strategic messaging direction)
 - **Clickable Reddit Links** (direct access to content)
 
 ## 🔒 Cost Management
@@ -150,8 +160,8 @@ Each opportunity is classified as "Suitable" or "Unsuitable" with strategic dire
 
 ## 🤝 Contributing
 
-This pipeline is designed for strategic community engagement in dating/relationship coaching contexts. The scoring algorithms and AI prompts can be adapted for other domains.
+This pipeline is designed for strategic market intelligence across multiple domains. The scoring algorithms and AI analysis frameworks can be easily adapted for different industries by modifying the system prompt and configuration files.
 
 ## 📄 License
 
-Private project for strategic Reddit engagement analysis.
+Private project for strategic market intelligence and business analysis.
